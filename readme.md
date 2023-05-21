@@ -1,4 +1,4 @@
-# Geroar portfolio
+# Gerroar portfolio
 
 *Repository of my online portfolio with updates and technologies that I will be using.*
 
